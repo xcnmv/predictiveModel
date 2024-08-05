@@ -1,2 +1,2 @@
-agentpy==0.1.5
-ipysimulate==0.2.1
+#agentpy==0.1.5
+#ipysimulate==0.2.1
